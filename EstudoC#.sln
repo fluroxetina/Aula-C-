@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{3BF82222-5FDC-4045-BA4D-3F81D3CFB549}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo1", "Aula1\Exemplo1\Exemplo1.csproj", "{21361F09-999D-4FAB-B1C7-AD98F0EF255E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.2", "Exemplo.2\Exemplo.2.csproj", "{3B7C0507-3800-4BC6-B325-15008384BD24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo1", "exemplo.1\Exemplo1.csproj", "{EAA81948-AC1E-44FC-8EC8-CFED90CB7DD7}"
