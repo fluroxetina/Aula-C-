@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo1\\Exemplo1.csproj": {}
+    "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\exemplo.1\\Exemplo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo1\\Exemplo1.csproj": {
+    "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\exemplo.1\\Exemplo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo1\\Exemplo1.csproj",
+        "projectUniqueName": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\exemplo.1\\Exemplo1.csproj",
         "projectName": "Exemplo1",
-        "projectPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo1\\Exemplo1.csproj",
+        "projectPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\exemplo.1\\Exemplo1.csproj",
         "packagesPath": "C:\\Users\\arthurguedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo1\\obj\\",
+        "outputPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\exemplo.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthurguedes\\AppData\\Roaming\\NuGet\\NuGet.Config",
