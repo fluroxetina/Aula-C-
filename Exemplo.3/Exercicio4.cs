@@ -24,7 +24,9 @@
 //                 cont++;
 //             }
 
+int[,] mat = new int[4, 4];
 
+int[,] mat = new int[2, 2] {{1,2},{1,2}};
           
 //         }
 //     }

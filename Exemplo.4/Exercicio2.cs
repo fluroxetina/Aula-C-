@@ -1,7 +1,7 @@
-Construa um programa que receba uma palavra do usuário. O programa deverá
-verificar se esta palavra corresponde à senha de acesso (senha: “Digix”). Se a palavra
-fornecida pelo usuário for igual a senha, o programa deverá informar “Acesso
-autorizado”, caso contrário, deverá informar “Acesso negado”
+// Construa um programa que receba uma palavra do usuário. O programa deverá
+// verificar se esta palavra corresponde à senha de acesso (senha: “Digix”). Se a palavra
+// fornecida pelo usuário for igual a senha, o programa deverá informar “Acesso
+// autorizado”, caso contrário, deverá informar “Acesso negado”
 
 using System;
 

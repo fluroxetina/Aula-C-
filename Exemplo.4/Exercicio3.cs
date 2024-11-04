@@ -1,11 +1,11 @@
-Reescreva o programa que identifica o DDD dos estados, utilizando a estrutura Caso,
-de acordo com os seguintes critérios de DDDs e seus respectivos Estados brasileiros.
-• Paraná: 41, 42, 43, 44, 45 e 46
-• Rio Grande do Sul: 51, 53, 54 e 55
-• Brasília: 61
-• Goiás: 62 e 64
-• Mato Grosso: 65 e 66
-• Mato Grosso do Sul: 67
+// Reescreva o programa que identifica o DDD dos estados, utilizando a estrutura Caso,
+// de acordo com os seguintes critérios de DDDs e seus respectivos Estados brasileiros.
+// • Paraná: 41, 42, 43, 44, 45 e 46
+// • Rio Grande do Sul: 51, 53, 54 e 55
+// • Brasília: 61
+// • Goiás: 62 e 64
+// • Mato Grosso: 65 e 66
+// • Mato Grosso do Sul: 67
 
 using System;
 

@@ -7,29 +7,112 @@ namespace Array
         static void Main(string[] args)
         {
 
-            int[] array = new int[10];
-            for (int i = 0 ; i < 10 ; i++){
+            //formas de declarar o vetor 
 
-                System.Console.WriteLine("Digite um numero: ");
-                int num = int.Parse(Console.ReadLine());
-                array[i] = num;
+            int[] vetor1 = new int[5];
+
+            //sem estabelecer tamanho
+
+            int[] vetor2 = new int[] {1,2,3,4,5};
+            int[] vetor3 = {1,2,3,4,5};
+
+            //vetor vazio
+
+            int[] vetor4 = {};
+
+
+            //percorrer o vetor
+
+            for (int i = 0; i < vetor2.Length; i++)
+            {
+                Console.WriteLine(vetor2[i]);
             }
 
-            System.Console.WriteLine("Ordem direta:");
+            //percorrer o vetor com foreach
 
-            for (int x = 0; x < 10; x++){
+            foreach (int item in vetor2)
+            {
 
-                System.Console.WriteLine(array[x]);
+                Console.WriteLine(item);
             }
 
+            //percorrer com o while
 
-            System.Console.WriteLine("Ordem inversa: ");
-
-            for (int x = 9; x >= 0; x--){
-
-                System.Console.WriteLine(array[x]);
+            int i = 0;
+            while (i < vetor2.Length)
+            {
+                Console.WriteLine(vetor2[i]);
+                i++;
             }
+                
         }
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int[] numeros = new numeros[10]
+
+
+for (int i = 0; i < 3;  i++){
+
+    System.Console.WriteLine("Escreve");
+    int num = int.Parse(Console.ReadLine());
+
+    numeros[i] = num;
+    
+}
+
+for(int j = 0 ; j < numeros.Length(); j++){
+
+    System.Console.WriteLine(numeros[j]);
 
 }
+
+
+
+for(int x = 0; x < 10; x--){
+    System.Console.WriteLine(numeros[x]);
+}
+
