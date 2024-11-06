@@ -58,7 +58,7 @@ namespace Exemplo6
     }
 }   
 
-// descobriando e somando o menor e maior numero de uma matriz
+descobriando e somando o menor e maior numero de uma matriz
 using System;
 
 class HelloWorld {

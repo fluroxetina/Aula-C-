@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\bin\Debug\net8.0\Exemplo.7.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\bin\Debug\net8.0\Exemplo.7.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\bin\Debug\net8.0\Exemplo.7.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\bin\Debug\net8.0\Exemplo.7.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\bin\Debug\net8.0\Exemplo.7.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\refint\Exemplo.7.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\Exemplo.7.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.7\obj\Debug\net8.0\ref\Exemplo.7.dll

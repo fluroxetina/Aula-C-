@@ -11,3 +11,17 @@ C:\Users\arthurguedes\Desktop\tesete\Exemplo6\obj\Debug\net8.0\refint\Exemplo6.d
 C:\Users\arthurguedes\Desktop\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.pdb
 C:\Users\arthurguedes\Desktop\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.genruntimeconfig.cache
 C:\Users\arthurguedes\Desktop\tesete\Exemplo6\obj\Debug\net8.0\ref\Exemplo6.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\bin\Debug\net8.0\Exemplo6.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\bin\Debug\net8.0\Exemplo6.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\bin\Debug\net8.0\Exemplo6.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\bin\Debug\net8.0\Exemplo6.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\refint\Exemplo6.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\Exemplo6.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\tesete\Exemplo6\obj\Debug\net8.0\ref\Exemplo6.dll
