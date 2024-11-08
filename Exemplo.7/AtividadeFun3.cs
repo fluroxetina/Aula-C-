@@ -23,7 +23,7 @@ namespace Exemplo_7
                 return control;
             }
         }
-        static void Main()
+        static void Teste()
         {
             Operacao op = VerificarPalindromo;
             int[] ara = {1,2,3,4,5,5,4,3,2,1};
