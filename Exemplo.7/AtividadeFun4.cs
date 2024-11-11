@@ -7,11 +7,13 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 
+using System;
+
 namespace Eceme
 {
     public class Mudificadore
     {
-        public int somaDiagonal(int [,] a)
+        public int[] somaDiagonal(int [,] a)
         {
             int somaDiagonal1 = 0;
             int somaDiagonal2 = 0;
@@ -32,7 +34,6 @@ namespace Eceme
                 }
 
             }
-            
             int[] Dia = new int[2] {somaDiagonal1, somaDiagonal2};
             return Dia;
 
@@ -58,6 +59,8 @@ namespace Eceme
         }
     }
 }
+
+
 
 
 
