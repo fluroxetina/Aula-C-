@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\bin\Debug\net8.0\Exemplo.10.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\bin\Debug\net8.0\Exemplo.10.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\bin\Debug\net8.0\Exemplo.10.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\bin\Debug\net8.0\Exemplo.10.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\bin\Debug\net8.0\Exemplo.10.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\refint\Exemplo.10.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\Exemplo.10.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.10\obj\Debug\net8.0\ref\Exemplo.10.dll
