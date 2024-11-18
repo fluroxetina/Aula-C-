@@ -19,7 +19,7 @@ namespace SelectionSort
                     }
                     aux = array[i];
                     array[i] = array[menor];
-                    vetor[menor] = aux;
+                    array[menor] = aux;
                 }
             }
 

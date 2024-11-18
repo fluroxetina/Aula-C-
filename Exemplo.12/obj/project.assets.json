@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.11\\Exemplo.11.csproj",
-      "projectName": "Exemplo.11",
-      "projectPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.11\\Exemplo.11.csproj",
+      "projectUniqueName": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.12\\testes+.csproj",
+      "projectName": "testes+",
+      "projectPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.12\\testes+.csproj",
       "packagesPath": "C:\\Users\\arthurguedes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.11\\obj\\",
+      "outputPath": "C:\\Users\\arthurguedes\\Desktop\\EstudoC#\\Exemplo.12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthurguedes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -36,6 +36,11 @@
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       },
       "restoreAuditProperties": {
         "enableAudit": "true",

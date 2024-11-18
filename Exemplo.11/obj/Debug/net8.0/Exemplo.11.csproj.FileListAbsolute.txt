@@ -1,3 +1,11 @@
 C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.csproj.CoreCompileInputs.cache
 C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\bin\Debug\net8.0\Exemplo.11.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\bin\Debug\net8.0\Exemplo.11.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\bin\Debug\net8.0\Exemplo.11.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\bin\Debug\net8.0\Exemplo.11.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\bin\Debug\net8.0\Exemplo.11.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.11\obj\Debug\net8.0\Exemplo.11.genruntimeconfig.cache

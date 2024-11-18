@@ -6,8 +6,19 @@
     <RootNamespace>Exemplo._11</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
-    <GenerateAssemblyInfo> false </GenerateAssemblyInfo>
+
+  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+  <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+  <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+
+  <WarningsAsErrors></WarningsAsErrors>
+
+
+  <NoWarn>CS2001</NoWarn>
+    
+
+
   </PropertyGroup>
 
 </Project>
