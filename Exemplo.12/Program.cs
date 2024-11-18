@@ -5,7 +5,7 @@ namespace testes
      public class Program
     {
 
-                public static void MergeSort112(int[] array, int inicio, int fim)
+          public static void MergeSort112(int[] array, int inicio, int fim)
         {
             if (inicio < fim)
             {
