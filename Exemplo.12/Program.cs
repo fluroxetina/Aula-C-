@@ -87,55 +87,55 @@
 
 // namespace Exemplo12
 // {
-//     public class MergeSort
-//     {
-//         public static void MergeSort112(int[] array, int inicio, int fim)
-//         {
-//             if (inicio < fim)
-//             {
-//                 int meio = (inicio + fim) / 2;
+    // public class MergeSort
+    // {
+    //     public static void MergeSort112(int[] array, int inicio, int fim)
+    //     {
+    //         if (inicio < fim)
+    //         {
+    //             int meio = (inicio + fim) / 2;
 
-//                 MergeSort112(array, inicio, meio);
-//                 MergeSort112(array, meio + 1, fim);
+    //             MergeSort112(array, inicio, meio);
+    //             MergeSort112(array, meio + 1, fim);
 
-//                 Intercalar(array, inicio, meio, fim);
-//             }
-//         }
+    //             Intercalar(array, inicio, meio, fim);
+    //         }
+    //     }
 
-//         private static void Intercalar(int[] array, int inicio, int meio, int fim)
-//         {
-//             int[] aux = new int[fim - inicio + 1];
-//             for (int j = inicio; j <= fim; j++)
-//             {
-//                 aux[j - inicio] = array[j];
-//             }
+    //     private static void Intercalar(int[] array, int inicio, int meio, int fim)
+    //     {
+    //         int[] aux = new int[fim - inicio + 1];
+    //         for (int j = inicio; j <= fim; j++)
+    //         {
+    //             aux[j - inicio] = array[j];
+    //         }
 
-//             int i1 = 0; 
-//             int i2 = meio - inicio + 1; 
-//             int i3 = inicio; 
+    //         int i1 = 0; 
+    //         int i2 = meio - inicio + 1; 
+    //         int i3 = inicio; 
 
-//             while (i1 <= meio - inicio && i2 <= fim - inicio)
-//             {
-//                 if (aux[i1] < aux[i2])
-//                 {
-//                     array[i3] = aux[i1];
-//                     i1++;
-//                 }
-//                 else
-//                 {
-//                     array[i3] = aux[i2];
-//                     i2++;
-//                 }
-//                 i3++;
-//             }
+    //         while (i1 <= meio - inicio && i2 <= fim - inicio)
+    //         {
+    //             if (aux[i1] < aux[i2])
+    //             {
+    //                 array[i3] = aux[i1];
+    //                 i1++;
+    //             }
+    //             else
+    //             {
+    //                 array[i3] = aux[i2];
+    //                 i2++;
+    //             }
+    //             i3++;
+    //         }
 
-//             while (i1 <= meio - inicio)
-//             {
-//                 array[i3] = aux[i1];
-//                 i1++;
-//                 i3++;
-//             }
-//         }
+    //         while (i1 <= meio - inicio)
+    //         {
+    //             array[i3] = aux[i1];
+    //             i1++;
+    //             i3++;
+    //         }
+    //     }
 
 //         static void Main(string[] args)
 //         {
