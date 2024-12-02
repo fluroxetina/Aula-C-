@@ -215,3 +215,15 @@
 
 // }
 
+using System;
+
+namespace Exemplo_13 
+{
+    public class ListaDuplamenteEncadeada
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}

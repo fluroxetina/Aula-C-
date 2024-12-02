@@ -49,18 +49,31 @@
 //             }
 //         }
 
-//     }
-// }
+//         static void VerTopo()
+//         {
+//             if(topo == null)
+//             {
+//                 System.Console.WriteLine("Lista Vazia");
+//                 return;
+//             }
+//             else
+//             {   System.Console.WriteLine("O topo da pilha é:");
+//                 System.Console.WriteLine(topo.Valor);
+//             }
+            
+            
+//         }
 
 //         static void Main(string[] args)
 //         {
-//             Empilhar(10);
+
+//             Empilhar(10);   
 //             Empilhar(20);
 //             Empilhar(30);
+//             Empilhar(40);
+
 //             Listar();
-//             Desempilhar();
-//             Desempilhar();
-//             Listar();           
+//             VerTopo();   
 //         }
 //     }
 // }

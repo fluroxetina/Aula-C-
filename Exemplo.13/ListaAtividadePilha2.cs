@@ -14,11 +14,14 @@
 
 //         static Node? topo = null;
 
+    
 //         static void Empilhar(int valor)
-//         {
+//         {   
+
 //             Node novoNode = new Node {Valor = valor, Proximo = topo};
 
 //             topo = novoNode;
+
 
 //         }
 
@@ -49,18 +52,46 @@
 //             }
 //         }
 
-//     }
-// }
+//         static void InverterPilha()
+//         {
+//             if (topo == null)
+//             {
+//                 System.Console.WriteLine("Pilha vazia");
+//                 return;
+//             }  
 
+//             Node? anterior = null;
+//             Node? atual = topo; 
+//             Node? proximo = null;
+
+//             System.Console.WriteLine("O topo da pilha invertida");
+//             while (atual != null) 
+//             {
+//                 proximo = atual.Proximo;
+
+//                 atual.Proximo = anterior;
+//                 anterior = atual; 
+//                 atual = proximo;
+                
+//             }
+
+//             topo = anterior;
+//             System.Console.WriteLine(topo.Valor);
+  
+
+//         }
+
+        
 //         static void Main(string[] args)
 //         {
-//             Empilhar(10);
+
+//             Empilhar(10);   
 //             Empilhar(20);
 //             Empilhar(30);
+//             Empilhar(40);
 //             Listar();
-//             Desempilhar();
-//             Desempilhar();
-//             Listar();           
+
+//             InverterPilha();
 //         }
 //     }
 // }
