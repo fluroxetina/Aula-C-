@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\bin\Debug\net8.0\Exemplo.15OO.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\bin\Debug\net8.0\Exemplo.15OO.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\bin\Debug\net8.0\Exemplo.15OO.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\bin\Debug\net8.0\Exemplo.15OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\bin\Debug\net8.0\Exemplo.15OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\refint\Exemplo.15OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\Exemplo.15OO.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo.15OO\obj\Debug\net8.0\ref\Exemplo.15OO.dll
