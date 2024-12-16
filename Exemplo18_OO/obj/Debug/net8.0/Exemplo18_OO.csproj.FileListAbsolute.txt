@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\bin\Debug\net8.0\Exemplo18_OO.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\bin\Debug\net8.0\Exemplo18_OO.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\bin\Debug\net8.0\Exemplo18_OO.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\bin\Debug\net8.0\Exemplo18_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\bin\Debug\net8.0\Exemplo18_OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\refint\Exemplo18_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\Exemplo18_OO.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo18_OO\obj\Debug\net8.0\ref\Exemplo18_OO.dll
