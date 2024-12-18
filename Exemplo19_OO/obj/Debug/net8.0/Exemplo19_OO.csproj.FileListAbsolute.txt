@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\bin\Debug\net8.0\Exemplo19_OO.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\bin\Debug\net8.0\Exemplo19_OO.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\bin\Debug\net8.0\Exemplo19_OO.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\bin\Debug\net8.0\Exemplo19_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\bin\Debug\net8.0\Exemplo19_OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\refint\Exemplo19_OO.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\Exemplo19_OO.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo19_OO\obj\Debug\net8.0\ref\Exemplo19_OO.dll
