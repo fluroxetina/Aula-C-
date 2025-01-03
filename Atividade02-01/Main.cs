@@ -17,6 +17,8 @@ namespace Atividade02_01
 
             UnidadeResidencial unidade2 = new UnidadeResidencial(1002.0, 23, 23, pessoa1);
 
+            UnidadeResidencial unidade3 = new UnidadeResidencial(1003.0, 210, 2323, pessoa1);
+
 
             Casa casa1 = new Casa(true, 100.0, "Rua A, 123", engenheiro);
             
@@ -26,6 +28,7 @@ namespace Atividade02_01
             
             predio.CadastrarUnidade(unidade);
             predio.CadastrarUnidade(unidade2);
+            predio.CadastrarUnidade(unidade3);
 
 
             Console.WriteLine(predio.DescricaoDoImovel());
