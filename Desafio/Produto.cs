@@ -18,7 +18,7 @@ namespace Desafio
 
         public double CalcularPrecoFinal()
         {
-            
+            return PrecoCusto;
         } 
     }
 }

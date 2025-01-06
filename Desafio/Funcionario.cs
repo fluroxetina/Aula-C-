@@ -9,7 +9,7 @@ namespace Desafio
     {
         public string Nome { get; set; }
         public Endereco Endereco { get; set; }
-        public string Cpf { get; set; }
+        public int Cpf { get; set; }
         public string Telefone { get; set; }
         public double SalarioBase { get; set; }
 

@@ -8,7 +8,7 @@ namespace Desafio
     public class Venda
     {
         public Produto[] Produtos { get; set; }
-        public DataSetDateTime Data { get; set; }
+        public DateTime Data { get; set; }
         public Vendedor Vendedor { get; set; }
         public string FormaPagamento { get; set; } 
         public int QuantidadeParcelas { get; set; }

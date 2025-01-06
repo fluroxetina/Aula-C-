@@ -8,7 +8,7 @@ namespace Desafio
     public abstract class Cliente
     {
         public string Nome { get; set; }
-        public string Cpf { get; set; }
+        public int Cpf { get; set; }
         public Endereco Endereco { get; set; }
 
         public string Telefone { get; set; }
@@ -20,7 +20,7 @@ namespace Desafio
             Endereco = new Endereco();
         }
 
-        public Cliente(string nome,string rua , string cidade, string estado, int cep ,string cpf, string telefone)
+        public Cliente(string nome,string rua , string cidade, string estado, int cep ,int cpf, string telefone)
         {
             this.Nome = nome;
             this.Endereco = new Endereco(rua, cidade, estado, cep);

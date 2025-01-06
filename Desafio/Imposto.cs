@@ -8,18 +8,16 @@ namespace Desafio
     public class Imposto
     {
         public double TotalVendas { get; set; }
-        public double ValorTotal { get; set; }
-        public Cliente Cliente { get; set; }
+        public double TotalSalarios { get; set; }
 
-        public double CalcularValorFinal()
+        public double CalcularImpostoVendas()
         {
-            Imposto imposto = new Imposto();
-            double valorFinal = 0;
-            foreach (var produto in Produtos)
-            {
-                valorFinal += produto.CalcularPrecoFinal();
-            }
-            return valorFinal - imposto.CalcularImpostoVendas();
+            return TotalVendas * 0.1;
+        }
+
+        public double CalcularImpostoSalario()
+        {
+            return TotalSalarios * 0.2;
         }
     }
 }

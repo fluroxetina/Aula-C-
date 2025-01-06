@@ -1,0 +1,5 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Atividade02-01.1\obj\Debug\net8.0\Atividade02-01.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Atividade02-01.1\obj\Debug\net8.0\Atividade02-01.1.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Atividade02-01.1\obj\Debug\net8.0\Atividade02-01.1.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Atividade02-01.1\obj\Debug\net8.0\Atividade02-01.1.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Atividade02-01.1\obj\Debug\net8.0\Atividade02-01.1.sourcelink.json

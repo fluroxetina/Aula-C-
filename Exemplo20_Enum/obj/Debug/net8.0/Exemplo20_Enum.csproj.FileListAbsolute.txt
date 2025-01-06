@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\bin\Debug\net8.0\Exemplo20_Enum.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\bin\Debug\net8.0\Exemplo20_Enum.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\bin\Debug\net8.0\Exemplo20_Enum.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\bin\Debug\net8.0\Exemplo20_Enum.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\bin\Debug\net8.0\Exemplo20_Enum.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\refint\Exemplo20_Enum.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\Exemplo20_Enum.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo20_Enum\obj\Debug\net8.0\ref\Exemplo20_Enum.dll
