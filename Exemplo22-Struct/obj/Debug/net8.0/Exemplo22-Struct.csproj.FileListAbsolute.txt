@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\bin\Debug\net8.0\Exemplo22-Struct.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\bin\Debug\net8.0\Exemplo22-Struct.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\bin\Debug\net8.0\Exemplo22-Struct.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\bin\Debug\net8.0\Exemplo22-Struct.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\bin\Debug\net8.0\Exemplo22-Struct.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\refint\Exemplo22-Struct.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\Exemplo22-Struct.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo22-Struct\obj\Debug\net8.0\ref\Exemplo22-Struct.dll
