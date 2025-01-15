@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\bin\Debug\net8.0\Exemplo24-ArquivosBinarios.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\bin\Debug\net8.0\Exemplo24-ArquivosBinarios.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\bin\Debug\net8.0\Exemplo24-ArquivosBinarios.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\bin\Debug\net8.0\Exemplo24-ArquivosBinarios.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\bin\Debug\net8.0\Exemplo24-ArquivosBinarios.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\refint\Exemplo24-ArquivosBinarios.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\Exemplo24-ArquivosBinarios.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo24-ArquivosBinarios\obj\Debug\net8.0\ref\Exemplo24-ArquivosBinarios.dll
