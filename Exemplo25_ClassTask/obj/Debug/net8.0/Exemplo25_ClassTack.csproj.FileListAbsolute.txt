@@ -1,0 +1,15 @@
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\bin\Debug\net8.0\Exemplo25_ClassTack.exe
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\bin\Debug\net8.0\Exemplo25_ClassTack.deps.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\bin\Debug\net8.0\Exemplo25_ClassTack.runtimeconfig.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\bin\Debug\net8.0\Exemplo25_ClassTack.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\bin\Debug\net8.0\Exemplo25_ClassTack.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.AssemblyInfoInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.AssemblyInfo.cs
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.csproj.CoreCompileInputs.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.sourcelink.json
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\refint\Exemplo25_ClassTack.dll
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.pdb
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\Exemplo25_ClassTack.genruntimeconfig.cache
+C:\Users\arthurguedes\Desktop\EstudoC#\Exemplo25_ClassTask\obj\Debug\net8.0\ref\Exemplo25_ClassTack.dll
